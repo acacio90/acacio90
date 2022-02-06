@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/49293808/152687378-129d0f8c-902e-416e-ba27-98278759cf96.gif" width="200">
 ## Olá!!  Meu nome é Pedro Acácio 👋 
 ### Maaas ... Pode me chamar de Acácio 
+
 <hr />
 
 <div>
