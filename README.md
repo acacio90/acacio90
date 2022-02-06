@@ -1,6 +1,6 @@
 ## Olá!!  Meu nome é Pedro Acácio 👋 
 ### Maaas ... Pode me chamar de Acácio 
-<img src="https://c.tenor.com/0GMfweq-tCYAAAAd/pif-pig.gif" width="100">
+<img src="https://c.tenor.com/0GMfweq-tCYAAAAd/pif-pig.gif">
 
 
 <br>
