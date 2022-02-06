@@ -1,6 +1,8 @@
 ## Olá!!  Meu nome é Pedro Acácio 👋 
 ### Maaas ... Pode me chamar de Acácio 
-<div class="tenor-gif-embed" data-postid="24753016" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pif-pig-gif-24753016">Pif Pig GIF</a>from </script>
+<img src="https://c.tenor.com/0GMfweq-tCYAAAAd/pif-pig.gif" width="100">
+
+
 <br>
 <div>
   <img height="160em"  position="right" src="https://github-readme-stats.vercel.app/api?username=acacio90&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
