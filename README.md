@@ -1,5 +1,6 @@
 ### Olá!!  Meu nome é Pedro Acácio 👋 
-### Maaas ... Pode me chamar de Acácio <img src="https://user-images.githubusercontent.com/49293808/152687066-2efa28cd-1d80-4b48-909c-6bc35c88847c.gif" width="25px">
+### Maaas ... Pode me chamar de Acácio 
+<img src="https://user-images.githubusercontent.com/49293808/152687066-2efa28cd-1d80-4b48-909c-6bc35c88847c.gif" width="80">
 <hr />
 
 <div>
