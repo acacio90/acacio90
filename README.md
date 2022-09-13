@@ -3,7 +3,7 @@
 
 <br>
 <div>
- <p>Tenho 21 anos, cursando Ciência da Computação na melhor :heart_eyes: UTFPR! Morador de Campo Mourão - PR, vindo de Novo Horizonte - SP. Saturo facilmente de rotinas, então os constantes desafios proporcionados pelo desenvolvimento é oque me motiva a amar tudo isso! :computer:</p>
+ <p>Tenho 22 anos, cursando Ciência da Computação na melhor :heart_eyes: UTFPR! Morador de Campo Mourão - PR, vindo de Novo Horizonte - SP. Saturo facilmente de rotinas, então os constantes desafios proporcionados pelo desenvolvimento é oque me motiva a amar tudo isso! :computer:</p>
 </div>
 
 <hr />
