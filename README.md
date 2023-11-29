@@ -3,7 +3,7 @@
 
 <br>
 <div>
- <p>Tenho 22 anos, cursando Ciência da Computação na melhor :heart_eyes: UTFPR! Morador de Campo Mourão - PR, vindo de Novo Horizonte - SP. Saturo facilmente de rotinas, então os constantes desafios proporcionados pelo desenvolvimento é oque me motiva a amar tudo isso! :computer:</p>
+ <p>Tenho 23 anos, cursando Ciência da Computação na melhor :heart_eyes: UTFPR! Morador de Campo Mourão - PR, vindo de Novo Horizonte - SP. Saturo facilmente de rotinas, então os constantes desafios proporcionados pelo desenvolvimento é oque me motiva a amar tudo isso! :computer:</p>
 </div>
 
 <hr />
@@ -11,7 +11,8 @@
 <div display="inline-block">
  <p align="left">:rocket: Desenvolvedor Full Stack;</p>
  <p align="left">:books: atualmente estudos focados no frontend com React;</p>
- <p align="left">:blue_heart: Desenvolvedor e Diretor Administrativo Financeiro na HAKEN - Empresa Júnior de Ciência da Computação;</p>
+ <p align="left">:blue_heart: Ex Desenvolvedor e Diretor Administrativo Financeiro na HAKEN - Empresa Júnior de Ciência da Computação;</p>
+ <p allign="left">:office: Atualmente estagiando em Análise e Desenvolvimento de Sistemas na COAMO;</p>
  <p align="left">:coffee: cafeína, esportes, família e tecnologia são meus alicerces para me aperfeiçoar.</p>
 </div>
 
