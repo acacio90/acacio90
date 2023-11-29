@@ -11,8 +11,8 @@
 <div display="inline-block">
  <p align="left">:rocket: Desenvolvedor Full Stack;</p>
  <p align="left">:books: atualmente estudos focados no frontend com React;</p>
- <p align="left">:blue_heart: Ex Desenvolvedor e Diretor Administrativo Financeiro na HAKEN - Empresa Júnior de Ciência da Computação;</p>
- <p allign="left">:office: Atualmente estagiando em Análise e Desenvolvimento de Sistemas na COAMO;</p>
+ <p align="left">:blue_heart: ex Desenvolvedor e Diretor Administrativo Financeiro na HAKEN - Empresa Júnior de Ciência da Computação;</p>
+ <p allign="left">:office: atualmente estagiando em Análise e Desenvolvimento de Sistemas na COAMO;</p>
  <p align="left">:coffee: cafeína, esportes, família e tecnologia são meus alicerces para me aperfeiçoar.</p>
 </div>
 
