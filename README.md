@@ -1,58 +1,28 @@
-### Olá, eu sou o Pedro Acácio 👋  
-### Mas pode me chamar de Acácio <img src="https://user-images.githubusercontent.com/49293808/152688704-b8886a3c-9ba0-45c5-afb9-f8b92dd21a54.gif" width="25px" />
+## Pedro Acácio
 
-<br>
+Técnico em TI na COGETI – UTFPR Campo Mourão e mestrando em Ciência da Computação (PPGCC-CM) na mesma instituição.
+Trabalho com redes, servidores Linux, virtualização e automação, e desenvolvo ferramentas para problemas que encontro na infraestrutura.
 
-<div>
- <p>
- Sou Mestrando em Ciência da Computação pela UTFPR (Campo Mourão) e Bacharel pela mesma instituição. 
- Atuo como Técnico em TI na COGETI, com foco em redes, servidores Linux, virtualização e automação.
- <br><br>
- Tenho interesse em resolver problemas reais através da tecnologia, especialmente na área de infraestrutura e monitoramento de redes, além de atuar também com desenvolvimento de sistemas.
- </p>
-</div>
+**Áreas de atuação**
 
-<hr />
+- Monitoramento, observabilidade e gestão de logs (Zabbix, SNMP, Graylog, Wazuh)
+- Administração de servidores Linux e virtualização
+- Automação e integração de sistemas
+- Desenvolvimento full stack (React + backend)
 
-<div>
- <p align="left">🚀 Técnico em TI (COGETI - UTFPR Campo Mourão)</p>
- <p align="left">🧠 Mestrando em Ciência da Computação (PPGCC-CM)</p>
- <p align="left">📡 Monitoramento e observabilidade (Zabbix, SNMP)</p>
- <p align="left">🐧 Administração de servidores Linux e virtualização</p>
- <p align="left">⚙️ Automação e integração de sistemas</p>
- <p align="left">💻 Desenvolvimento Full Stack (React + backend)</p>
- <p align="left">📊 TCC: Otimização energética de redes Wi-Fi com modelagem e algoritmos</p>
-</div>
+**Pesquisa:** otimização energética e alocação de canais em redes Wi-Fi.
 
----
+### Projetos
 
-### 🛠️ Tecnologias e Ferramentas
+| Projeto | Descrição |
+|---|---|
+| [PowerTrackZ](https://github.com/acacio90/PowerTrackZ) | Sistema web para monitorar redes Wi-Fi e propor configurações de canal e largura de banda que reduzem interferência e consumo de energia. Desenvolvido na pesquisa de mestrado. |
+| [MultTerm](https://github.com/acacio90/MultTerm) | Gerenciador de sessões SSH/RDP com terminal em abas. |
 
-<div>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
-</div>
+### Tecnologias
 
----
+![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-3D82F1?style=flat-square) ![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white)
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=acacio90&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acacio90&theme=algolia"/>
-</div>
+### Contato
 
-<hr />
-
-<div>
-  <a href="mailto:pedrorodriguesnh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-a-65228b128/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrorodriguesnh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/pedro-acacio/)
